@@ -1,0 +1,15 @@
+C:\PROJETOS\ALURA\Screen-Sound-API\Screen-Soud-API\bin\Debug\net10.0\Screen-Soud-API.exe
+C:\PROJETOS\ALURA\Screen-Sound-API\Screen-Soud-API\bin\Debug\net10.0\Screen-Soud-API.deps.json
+C:\PROJETOS\ALURA\Screen-Sound-API\Screen-Soud-API\bin\Debug\net10.0\Screen-Soud-API.runtimeconfig.json
+C:\PROJETOS\ALURA\Screen-Sound-API\Screen-Soud-API\bin\Debug\net10.0\Screen-Soud-API.dll
+C:\PROJETOS\ALURA\Screen-Sound-API\Screen-Soud-API\bin\Debug\net10.0\Screen-Soud-API.pdb
+C:\PROJETOS\ALURA\Screen-Sound-API\Screen-Soud-API\obj\Debug\net10.0\Screen-Soud-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\ALURA\Screen-Sound-API\Screen-Soud-API\obj\Debug\net10.0\Screen-Soud-API.AssemblyInfoInputs.cache
+C:\PROJETOS\ALURA\Screen-Sound-API\Screen-Soud-API\obj\Debug\net10.0\Screen-Soud-API.AssemblyInfo.cs
+C:\PROJETOS\ALURA\Screen-Sound-API\Screen-Soud-API\obj\Debug\net10.0\Screen-Soud-API.csproj.CoreCompileInputs.cache
+C:\PROJETOS\ALURA\Screen-Sound-API\Screen-Soud-API\obj\Debug\net10.0\Screen-Soud-API.sourcelink.json
+C:\PROJETOS\ALURA\Screen-Sound-API\Screen-Soud-API\obj\Debug\net10.0\Screen-Soud-API.dll
+C:\PROJETOS\ALURA\Screen-Sound-API\Screen-Soud-API\obj\Debug\net10.0\refint\Screen-Soud-API.dll
+C:\PROJETOS\ALURA\Screen-Sound-API\Screen-Soud-API\obj\Debug\net10.0\Screen-Soud-API.pdb
+C:\PROJETOS\ALURA\Screen-Sound-API\Screen-Soud-API\obj\Debug\net10.0\Screen-Soud-API.genruntimeconfig.cache
+C:\PROJETOS\ALURA\Screen-Sound-API\Screen-Soud-API\obj\Debug\net10.0\ref\Screen-Soud-API.dll
