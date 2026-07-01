@@ -13,4 +13,5 @@ internal class LinqOrder
             Console.WriteLine($"- {artista}");
         }
     }
+
 }
